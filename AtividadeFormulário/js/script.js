@@ -81,5 +81,4 @@ function exibirDados(){
             </section>
         </section>    
     `
-
 }
